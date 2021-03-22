@@ -8,11 +8,11 @@ Welcome to python-binance v0.7.0
 .. image:: https://img.shields.io/pypi/l/python-binance.svg
     :target: https://pypi.python.org/pypi/python-binance
 
-.. image:: https://img.shields.io/travis/sammchardy/python-binance.svg
-    :target: https://travis-ci.org/sammchardy/python-binance
+.. image:: https://img.shields.io/travis/leeyamkeng/python-binance.svg
+    :target: https://travis-ci.org/leeyamkeng/python-binance
 
-.. image:: https://img.shields.io/coveralls/sammchardy/python-binance.svg
-    :target: https://coveralls.io/github/sammchardy/python-binance
+.. image:: https://img.shields.io/coveralls/leeyamkeng/python-binance.svg
+    :target: https://coveralls.io/github/leeyamkeng/python-binance
 
 .. image:: https://img.shields.io/pypi/wheel/python-binance.svg
     :target: https://pypi.python.org/pypi/python-binance
@@ -25,7 +25,7 @@ This is an unofficial Python wrapper for the `Binance exchange REST API v1 <http
 If you came here looking for the `Binance exchange <https://www.binance.com/?ref=10099792>`_ to purchase cryptocurrencies, then `go here <https://www.binance.com/?ref=10099792>`_. If you want to automate interactions with Binance stick around.
 
 Source code
-  https://github.com/sammchardy/python-binance
+  https://github.com/leeyamkeng/python-binance
 
 Documentation
   https://python-binance.readthedocs.io/en/latest/
@@ -141,10 +141,10 @@ Other Exchanges
 ---------------
 
 If you use `Quoinex <https://accounts.quoinex.com/sign-up?affiliate=PAxghztC67615>`_
-or `Qryptos <https://accounts.qryptos.com/sign-up?affiliate=PAxghztC67615>`_ check out my `python-quoine <https://github.com/sammchardy/python-quoine>`_ library.
+or `Qryptos <https://accounts.qryptos.com/sign-up?affiliate=PAxghztC67615>`_ check out my `python-quoine <https://github.com/leeyamkeng/python-quoine>`_ library.
 
-If you use `Kucoin <https://www.kucoin.com/#/?r=E42cWB>`_ check out my `python-kucoin <https://github.com/sammchardy/python-kucoin>`_ library.
+If you use `Kucoin <https://www.kucoin.com/#/?r=E42cWB>`_ check out my `python-kucoin <https://github.com/leeyamkeng/python-kucoin>`_ library.
 
-If you use `IDEX <https://idex.market>`_ check out my `python-idex <https://github.com/sammchardy/python-idex>`_ library.
+If you use `IDEX <https://idex.market>`_ check out my `python-idex <https://github.com/leeyamkeng/python-idex>`_ library.
 
 .. image:: https://analytics-pixel.appspot.com/UA-111417213-1/github/python-binance?pixel&useReferer

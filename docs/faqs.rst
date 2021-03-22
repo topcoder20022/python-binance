@@ -8,7 +8,7 @@ FAQ
 The timestamp sent is outside of the serverTime - recvWindow value
 The timestamp sent is more than 1000ms ahead of the server time
 
-Check that your system time is in sync. See `this issue <https://github.com/sammchardy/python-binance/issues/2#issuecomment-324878152>`_ for some sample code to check the difference between your local
+Check that your system time is in sync. See `this issue <https://github.com/leeyamkeng/python-binance/issues/2#issuecomment-324878152>`_ for some sample code to check the difference between your local
 time and the Binance server time.
 
 *Q: Why do I get "Signature for this request is not valid"*
