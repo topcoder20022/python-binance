@@ -34,15 +34,6 @@ If you're interested in Binance's new DEX Binance Chain see my `python-binance-c
 Source code
   https://github.com/leeyamkeng/python-binance
 
-Documentation
-  https://python-binance.readthedocs.io/en/latest/
-
-Binance API Telegram
-  https://t.me/binance_api_english
-
-Blog with examples
-  https://leeyamkeng.github.io
-
 Make sure you update often and check the `Changelog <https://python-binance.readthedocs.io/en/latest/changelog.html>`_ for new features and bug fixes.
 
 Features
