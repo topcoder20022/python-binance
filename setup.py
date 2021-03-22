@@ -6,7 +6,7 @@ setup(
     version='0.7.9',
     packages=['binance'],
     description='Binance REST API python implementation',
-    url='https://github.com/sammchardy/python-binance',
+    url='https://github.com/leeyamkeng/python-binance',
     author='Sam McHardy',
     license='MIT',
     author_email='',
